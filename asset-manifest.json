@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/labsite1/static/css/main.58a19b63.css",
+    "main.js": "/labsite1/static/js/main.ca83a358.js",
+    "static/media/abbbg.png": "/labsite1/static/media/abbbg.08e61baa586a2da4c2f6.png",
+    "static/media/eds.png": "/labsite1/static/media/eds.791fbc9815f64e964ca9.png",
+    "static/media/mp.png": "/labsite1/static/media/mp.7a33d92a5107579ff899.png",
+    "static/media/sgp.png": "/labsite1/static/media/sgp.f44d2d39cb92b8ab4ff7.png",
+    "static/media/abb.jpg": "/labsite1/static/media/abb.a0e0a5b6f6b847b35fa5.jpg",
+    "index.html": "/labsite1/index.html",
+    "main.58a19b63.css.map": "/labsite1/static/css/main.58a19b63.css.map",
+    "main.ca83a358.js.map": "/labsite1/static/js/main.ca83a358.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a19b63.css",
+    "static/js/main.ca83a358.js"
+  ]
+}
